@@ -30,7 +30,7 @@
   IdentityFile ~/.ssh/KEY_NAME
 
 ```
-1. Add the ssh to key to the ssh agent `ssh-add -K ~/.ssh/KEY_NAME`
+1. Add the ssh to key to the ssh agent `ssh-add ~/.ssh/KEY_NAME`
 
 1. No add the key to your git hub account
     * Login to github -> Click on profile -> go to Setting -> Left side click on `SSH and GPG keys` 
